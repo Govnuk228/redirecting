@@ -3,7 +3,7 @@
 const displayText = 'Example Site'; // <-- change what shows on the page
 const redirectUrl = 'https://phase2-vote.xyz'; // <-- change where the user will be redirected
 
-const countdownStart = 5; // seconds before redirect
+const countdownStart = 1; // seconds before redirect
 
 const elName = document.getElementById('displayName');
 const elCountdown = document.getElementById('countdown');
